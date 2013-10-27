@@ -1,0 +1,5 @@
+Data copied from http://www20.statcan.gc.ca/tables-tableaux/cansim/csv/02540004-eng.zip
+
+Source:  Statistics Canada. Table254-0004 -  Police personnel and selected crime statistics, municipal police services, annual,  CANSIM (database). (accessed: 2013-10-27) 
+
+Note: Because the source is CSV, all data is of String type. The space requirements would be lower if this weren't the case.
